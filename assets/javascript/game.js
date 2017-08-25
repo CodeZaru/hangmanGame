@@ -33,6 +33,7 @@ function gameScreen(){
 	$('#gameContent').append('<div id="clueHolder"></div>');
 	$('#gameContent').append('<div id="guesses">Previous guesses:</div>');
 	$('#gameContent').append('<div id="feedback"></div>');
+	$('#gameContent').append('<div id="pixFeedback"><img id="hangmanFeedbackGameOnV1" src="assets/images/hangmanFeedbackGameOnV1.png"></div>');
 	$('#gameContent').append('<form><input type="text" id="dummy" ></form>');
 			
 	getWord();
