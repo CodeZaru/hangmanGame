@@ -9,7 +9,7 @@ $(document).ready(function () {
 	
  
  
- 		$.getJSON('quizbank.json', function(data) { 
+ 		$.getJSON('wordBank.json', function(data) { 
 
 		for(i=0;i<data.wordlist.length;i++){ 
 			questionBank[i]=new Array;
@@ -28,7 +28,7 @@ function titleScreen(){
 	
 function gameScreen(){
 	$('#gameContent').empty();
-	$('#gameContent').append('<div id="pixHolder"><img id="hangman" src="man.png"></div>');
+	$('#gameContent').append('<div id="pixHolder"><img id="hangman" src="assets/images/hangman.png"></div>');
 	$('#gameContent').append('<div id="wordHolder"></div>');
 	$('#gameContent').append('<div id="clueHolder"></div>');
 	$('#gameContent').append('<div id="guesses">Previous guesses:</div>');
