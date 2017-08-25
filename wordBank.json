@@ -1,31 +1,860 @@
 {"wordlist":[
-  
-	{
-		"word":"kangaroo",
-		"clue":"an animal"
-	},
-	 
-	{
-		"word":"starbucks",
-		"clue":"a company"
-	},
-	{
-		"word":"macaroni",
-		"clue":"a kind of food"
-	},
-	{
-		"word":"washington",
-		"clue":"a place"
-	},
-	{
-		"word":"turtle",
-		"clue":"a creature"
-	},
-	{
-		"word":"guillotine",
-		"clue":"a machine"
-	}
-	
+ {
+   "word": "abruptly",
+   "clue": "random words"
+ },
+ {
+   "word": "absurd",
+   "clue": "random words"
+ },
+ {
+   "word": "abyss",
+   "clue": "random words"
+ },
+ {
+   "word": "affix",
+   "clue": "random words"
+ },
+ {
+   "word": "askew",
+   "clue": "random words"
+ },
+ {
+   "word": "avenue",
+   "clue": "random words"
+ },
+ {
+   "word": "awkward",
+   "clue": "random words"
+ },
+ {
+   "word": "axiom",
+   "clue": "random words"
+ },
+ {
+   "word": "azure",
+   "clue": "random words"
+ },
+ {
+   "word": "bagpipes",
+   "clue": "random words"
+ },
+ {
+   "word": "bandwagon",
+   "clue": "random words"
+ },
+ {
+   "word": "banjo",
+   "clue": "random words"
+ },
+ {
+   "word": "bayou",
+   "clue": "random words"
+ },
+ {
+   "word": "beekeeper",
+   "clue": "random words"
+ },
+ {
+   "word": "bikini",
+   "clue": "random words"
+ },
+ {
+   "word": "blitz",
+   "clue": "random words"
+ },
+ {
+   "word": "blizzard",
+   "clue": "random words"
+ },
+ {
+   "word": "boggle",
+   "clue": "random words"
+ },
+ {
+   "word": "bookworm",
+   "clue": "random words"
+ },
+ {
+   "word": "boxcar",
+   "clue": "random words"
+ },
+ {
+   "word": "boxful",
+   "clue": "random words"
+ },
+ {
+   "word": "buckaroo",
+   "clue": "random words"
+ },
+ {
+   "word": "buffalo",
+   "clue": "random words"
+ },
+ {
+   "word": "buffoon",
+   "clue": "random words"
+ },
+ {
+   "word": "buxom",
+   "clue": "random words"
+ },
+ {
+   "word": "buzzard",
+   "clue": "random words"
+ },
+ {
+   "word": "buzzing",
+   "clue": "random words"
+ },
+ {
+   "word": "buzzwords",
+   "clue": "random words"
+ },
+ {
+   "word": "caliph",
+   "clue": "random words"
+ },
+ {
+   "word": "cobweb",
+   "clue": "random words"
+ },
+ {
+   "word": "cockiness",
+   "clue": "random words"
+ },
+ {
+   "word": "croquet",
+   "clue": "random words"
+ },
+ {
+   "word": "crypt",
+   "clue": "random words"
+ },
+ {
+   "word": "curacao",
+   "clue": "random words"
+ },
+ {
+   "word": "cycle",
+   "clue": "random words"
+ },
+ {
+   "word": "daiquiri",
+   "clue": "random words"
+ },
+ {
+   "word": "dirndl",
+   "clue": "random words"
+ },
+ {
+   "word": "disavow",
+   "clue": "random words"
+ },
+ {
+   "word": "dizzying",
+   "clue": "random words"
+ },
+ {
+   "word": "duplex",
+   "clue": "random words"
+ },
+ {
+   "word": "dwarves",
+   "clue": "random words"
+ },
+ {
+   "word": "embezzle",
+   "clue": "random words"
+ },
+ {
+   "word": "equip",
+   "clue": "random words"
+ },
+ {
+   "word": "espionage",
+   "clue": "random words"
+ },
+ {
+   "word": "euouae",
+   "clue": "random words"
+ },
+ {
+   "word": "exodus",
+   "clue": "random words"
+ },
+ {
+   "word": "faking",
+   "clue": "random words"
+ },
+ {
+   "word": "fishhook",
+   "clue": "random words"
+ },
+ {
+   "word": "fixable",
+   "clue": "random words"
+ },
+ {
+   "word": "fjord",
+   "clue": "random words"
+ },
+ {
+   "word": "flapjack",
+   "clue": "random words"
+ },
+ {
+   "word": "flopping",
+   "clue": "random words"
+ },
+ {
+   "word": "fluffiness",
+   "clue": "random words"
+ },
+ {
+   "word": "flyby",
+   "clue": "random words"
+ },
+ {
+   "word": "foxglove",
+   "clue": "random words"
+ },
+ {
+   "word": "frazzled",
+   "clue": "random words"
+ },
+ {
+   "word": "frizzled",
+   "clue": "random words"
+ },
+ {
+   "word": "fuchsia",
+   "clue": "random words"
+ },
+ {
+   "word": "funny",
+   "clue": "random words"
+ },
+ {
+   "word": "gabby",
+   "clue": "random words"
+ },
+ {
+   "word": "galaxy",
+   "clue": "random words"
+ },
+ {
+   "word": "galvanize",
+   "clue": "random words"
+ },
+ {
+   "word": "gazebo",
+   "clue": "random words"
+ },
+ {
+   "word": "giaour",
+   "clue": "random words"
+ },
+ {
+   "word": "gizmo",
+   "clue": "random words"
+ },
+ {
+   "word": "glowworm",
+   "clue": "random words"
+ },
+ {
+   "word": "glyph",
+   "clue": "random words"
+ },
+ {
+   "word": "gnarly",
+   "clue": "random words"
+ },
+ {
+   "word": "gnostic",
+   "clue": "random words"
+ },
+ {
+   "word": "gossip",
+   "clue": "random words"
+ },
+ {
+   "word": "grogginess",
+   "clue": "random words"
+ },
+ {
+   "word": "haiku",
+   "clue": "random words"
+ },
+ {
+   "word": "haphazard",
+   "clue": "random words"
+ },
+ {
+   "word": "hyphen",
+   "clue": "random words"
+ },
+ {
+   "word": "iatrogenic",
+   "clue": "random words"
+ },
+ {
+   "word": "icebox",
+   "clue": "random words"
+ },
+ {
+   "word": "injury",
+   "clue": "random words"
+ },
+ {
+   "word": "ivory",
+   "clue": "random words"
+ },
+ {
+   "word": "ivy",
+   "clue": "random words"
+ },
+ {
+   "word": "jackpot",
+   "clue": "random words"
+ },
+ {
+   "word": "jaundice",
+   "clue": "random words"
+ },
+ {
+   "word": "jawbreaker",
+   "clue": "random words"
+ },
+ {
+   "word": "jaywalk",
+   "clue": "random words"
+ },
+ {
+   "word": "jazziest",
+   "clue": "random words"
+ },
+ {
+   "word": "jazzy",
+   "clue": "random words"
+ },
+ {
+   "word": "jelly",
+   "clue": "random words"
+ },
+ {
+   "word": "jigsaw",
+   "clue": "random words"
+ },
+ {
+   "word": "jinx",
+   "clue": "random words"
+ },
+ {
+   "word": "jiujitsu",
+   "clue": "random words"
+ },
+ {
+   "word": "jockey",
+   "clue": "random words"
+ },
+ {
+   "word": "jogging",
+   "clue": "random words"
+ },
+ {
+   "word": "joking",
+   "clue": "random words"
+ },
+ {
+   "word": "jovial",
+   "clue": "random words"
+ },
+ {
+   "word": "joyful",
+   "clue": "random words"
+ },
+ {
+   "word": "juicy",
+   "clue": "random words"
+ },
+ {
+   "word": "jukebox",
+   "clue": "random words"
+ },
+ {
+   "word": "jumbo",
+   "clue": "random words"
+ },
+ {
+   "word": "kayak",
+   "clue": "random words"
+ },
+ {
+   "word": "kazoo",
+   "clue": "random words"
+ },
+ {
+   "word": "keyhole",
+   "clue": "random words"
+ },
+ {
+   "word": "khaki",
+   "clue": "random words"
+ },
+ {
+   "word": "kilobyte",
+   "clue": "random words"
+ },
+ {
+   "word": "kiosk",
+   "clue": "random words"
+ },
+ {
+   "word": "kitsch",
+   "clue": "random words"
+ },
+ {
+   "word": "kiwifruit",
+   "clue": "random words"
+ },
+ {
+   "word": "klutz",
+   "clue": "random words"
+ },
+ {
+   "word": "knapsack",
+   "clue": "random words"
+ },
+ {
+   "word": "larynx",
+   "clue": "random words"
+ },
+ {
+   "word": "lengths",
+   "clue": "random words"
+ },
+ {
+   "word": "lucky",
+   "clue": "random words"
+ },
+ {
+   "word": "luxury",
+   "clue": "random words"
+ },
+ {
+   "word": "lymph",
+   "clue": "random words"
+ },
+ {
+   "word": "marquis",
+   "clue": "random words"
+ },
+ {
+   "word": "matrix",
+   "clue": "random words"
+ },
+ {
+   "word": "megahertz",
+   "clue": "random words"
+ },
+ {
+   "word": "microwave",
+   "clue": "random words"
+ },
+ {
+   "word": "mnemonic",
+   "clue": "random words"
+ },
+ {
+   "word": "mystify",
+   "clue": "random words"
+ },
+ {
+   "word": "naphtha",
+   "clue": "random words"
+ },
+ {
+   "word": "nightclub",
+   "clue": "random words"
+ },
+ {
+   "word": "nowadays",
+   "clue": "random words"
+ },
+ {
+   "word": "numbskull",
+   "clue": "random words"
+ },
+ {
+   "word": "nymph",
+   "clue": "random words"
+ },
+ {
+   "word": "onyx",
+   "clue": "random words"
+ },
+ {
+   "word": "ovary",
+   "clue": "random words"
+ },
+ {
+   "word": "oxidize",
+   "clue": "random words"
+ },
+ {
+   "word": "oxygen",
+   "clue": "random words"
+ },
+ {
+   "word": "pajama",
+   "clue": "random words"
+ },
+ {
+   "word": "peekaboo",
+   "clue": "random words"
+ },
+ {
+   "word": "phlegm",
+   "clue": "random words"
+ },
+ {
+   "word": "pixel",
+   "clue": "random words"
+ },
+ {
+   "word": "pizazz",
+   "clue": "random words"
+ },
+ {
+   "word": "pneumonia",
+   "clue": "random words"
+ },
+ {
+   "word": "polka",
+   "clue": "random words"
+ },
+ {
+   "word": "pshaw",
+   "clue": "random words"
+ },
+ {
+   "word": "psyche",
+   "clue": "random words"
+ },
+ {
+   "word": "puppy",
+   "clue": "random words"
+ },
+ {
+   "word": "puzzling",
+   "clue": "random words"
+ },
+ {
+   "word": "quartz",
+   "clue": "random words"
+ },
+ {
+   "word": "queue",
+   "clue": "random words"
+ },
+ {
+   "word": "quips",
+   "clue": "random words"
+ },
+ {
+   "word": "quixotic",
+   "clue": "random words"
+ },
+ {
+   "word": "quiz",
+   "clue": "random words"
+ },
+ {
+   "word": "quizzes",
+   "clue": "random words"
+ },
+ {
+   "word": "quorum",
+   "clue": "random words"
+ },
+ {
+   "word": "razzmatazz",
+   "clue": "random words"
+ },
+ {
+   "word": "rhubarb",
+   "clue": "random words"
+ },
+ {
+   "word": "rhythm",
+   "clue": "random words"
+ },
+ {
+   "word": "rickshaw",
+   "clue": "random words"
+ },
+ {
+   "word": "schnapps",
+   "clue": "random words"
+ },
+ {
+   "word": "scratch",
+   "clue": "random words"
+ },
+ {
+   "word": "shiv",
+   "clue": "random words"
+ },
+ {
+   "word": "snazzy",
+   "clue": "random words"
+ },
+ {
+   "word": "sphinx",
+   "clue": "random words"
+ },
+ {
+   "word": "spritz",
+   "clue": "random words"
+ },
+ {
+   "word": "squawk",
+   "clue": "random words"
+ },
+ {
+   "word": "staff",
+   "clue": "random words"
+ },
+ {
+   "word": "strength",
+   "clue": "random words"
+ },
+ {
+   "word": "strengths",
+   "clue": "random words"
+ },
+ {
+   "word": "stretch",
+   "clue": "random words"
+ },
+ {
+   "word": "stronghold",
+   "clue": "random words"
+ },
+ {
+   "word": "stymied",
+   "clue": "random words"
+ },
+ {
+   "word": "subway",
+   "clue": "random words"
+ },
+ {
+   "word": "swivel",
+   "clue": "random words"
+ },
+ {
+   "word": "syndrome",
+   "clue": "random words"
+ },
+ {
+   "word": "thriftless",
+   "clue": "random words"
+ },
+ {
+   "word": "thumbscrew",
+   "clue": "random words"
+ },
+ {
+   "word": "topaz",
+   "clue": "random words"
+ },
+ {
+   "word": "transcript",
+   "clue": "random words"
+ },
+ {
+   "word": "transgress",
+   "clue": "random words"
+ },
+ {
+   "word": "transplant",
+   "clue": "random words"
+ },
+ {
+   "word": "triphthong",
+   "clue": "random words"
+ },
+ {
+   "word": "twelfth",
+   "clue": "random words"
+ },
+ {
+   "word": "twelfths",
+   "clue": "random words"
+ },
+ {
+   "word": "unknown",
+   "clue": "random words"
+ },
+ {
+   "word": "unworthy",
+   "clue": "random words"
+ },
+ {
+   "word": "unzip",
+   "clue": "random words"
+ },
+ {
+   "word": "uptown",
+   "clue": "random words"
+ },
+ {
+   "word": "vaporize",
+   "clue": "random words"
+ },
+ {
+   "word": "vixen",
+   "clue": "random words"
+ },
+ {
+   "word": "vodka",
+   "clue": "random words"
+ },
+ {
+   "word": "voodoo",
+   "clue": "random words"
+ },
+ {
+   "word": "vortex",
+   "clue": "random words"
+ },
+ {
+   "word": "voyeurism",
+   "clue": "random words"
+ },
+ {
+   "word": "walkway",
+   "clue": "random words"
+ },
+ {
+   "word": "waltz",
+   "clue": "random words"
+ },
+ {
+   "word": "wave",
+   "clue": "random words"
+ },
+ {
+   "word": "wavy",
+   "clue": "random words"
+ },
+ {
+   "word": "waxy",
+   "clue": "random words"
+ },
+ {
+   "word": "wellspring",
+   "clue": "random words"
+ },
+ {
+   "word": "wheezy",
+   "clue": "random words"
+ },
+ {
+   "word": "whiskey",
+   "clue": "random words"
+ },
+ {
+   "word": "whizzing",
+   "clue": "random words"
+ },
+ {
+   "word": "whomever",
+   "clue": "random words"
+ },
+ {
+   "word": "wimpy",
+   "clue": "random words"
+ },
+ {
+   "word": "witchcraft",
+   "clue": "random words"
+ },
+ {
+   "word": "wizard",
+   "clue": "random words"
+ },
+ {
+   "word": "woozy",
+   "clue": "random words"
+ },
+ {
+   "word": "wristwatch",
+   "clue": "random words"
+ },
+ {
+   "word": "wyvern",
+   "clue": "random words"
+ },
+ {
+   "word": "xylophone",
+   "clue": "random words"
+ },
+ {
+   "word": "yachtsman",
+   "clue": "random words"
+ },
+ {
+   "word": "yippee",
+   "clue": "random words"
+ },
+ {
+   "word": "yoked",
+   "clue": "random words"
+ },
+ {
+   "word": "youthful",
+   "clue": "random words"
+ },
+ {
+   "word": "yummy",
+   "clue": "random words"
+ },
+ {
+   "word": "zephyr",
+   "clue": "random words"
+ },
+ {
+   "word": "zigzag",
+   "clue": "random words"
+ },
+ {
+   "word": "zigzagging",
+   "clue": "random words"
+ },
+ {
+   "word": "zilch",
+   "clue": "random words"
+ },
+ {
+   "word": "zipper",
+   "clue": "random words"
+ },
+ {
+   "word": "zodiac",
+   "clue": "random words"
+ },
+ {
+   "word": "zombie",
+   "clue": "random words"
+ },
+ {
+   "word": "View all",
+   "clue": "random words"
+ }
 ]
 }
 
