@@ -20,7 +20,7 @@ $(document).ready(function () {
 		})//gtjson
  
 function titleScreen(){
-	$('#gameContent').append('<div id="gameTitle">HANGMAN</div><div id="startButton" class="button">BEGIN</div>');		
+	$('#gameContent').append('<div id="gameTitle">HANGMAN</div><div id="startButton" class="button" background-color: red>BEGIN</div>');		
 	$('#startButton').on("click",function (){gameScreen()});
 }//display game
 	
@@ -40,7 +40,8 @@ function gameScreen(){
 	var numberOfTiles=currentWord.length;
 	wrongAnswerCount=0;
 	previousGuesses=[];
-			 
+	// Need to display wrongAnswerCount	
+
 	for(i=0;i<numberOfTiles;i++){
 		$('#wordHolder').append('<div class="tile" id=t'+i+'></div>');
 	}
@@ -99,7 +100,7 @@ function checkAnswer(){
 	if(currentAnswer==currentWord){
 		victoryMessage();
 	};
-}//checkanswer
+}//checkanswer, add victory song/audio and victory picture, and increment points by 1.
 		
 function wrongAnswer(a){
 	wrongAnswerCount++;
