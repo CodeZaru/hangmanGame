@@ -79,13 +79,13 @@ body {
 				#clueHolder{
 					margin-top:130px;
 					margin-left:150px;
-					font: bold;
+					background-color: #fff;
 				}
 
 				#guesses{
 					margin-top:20px;
 					margin-left:150px;
-					font: bold;
+					background-color: #fff;
 				}
 
 				#pixHolder{
@@ -103,7 +103,7 @@ body {
 						margin-top:20px;
 						margin-left:150px;
 						font-size:34px;
-						color:#fff;
+						color:#0e0d0d;
 					}
 
 					.tile{
