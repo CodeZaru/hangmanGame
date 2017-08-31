@@ -251,12 +251,6 @@ wins ++;
 		    setTimeout(function(){newGame();}, 3000)
 		    
 
-//if button is clicked, reset by calling gameScreen and if wordBank still has words else end game gracefully.
-//$('#replay').on("click",function (){
-//	if(wordBank.length>0){
-//		gameScreen()}
-//		else{finalPage()}
-//	});
 }//victory
 ////////////////////////////////////////////////////
 //FUNCTION victoryMessage() ENDS////////////////////
@@ -278,27 +272,11 @@ $('#loss').text(losses);
 console.log(losses);
  setTimeout(function(){newGame();}, 3000)
 		   
-
-//	$('#replay').on("click",function (){
-//		if(wordBank.length>0){
-//			gameScreen()}
-//			else{finalPage()}
-//		});
 }//defeat
 ////////////////////////////////////////////////////
 //FUNCTION defeatMessage() ENDS/////////////////////
 ////////////////////////////////////////////////////
 
-////////////////////////////////////////////////////
-//FUNCTION finalPage() BEGINS///////////////////////
-////////////////////////////////////////////////////
-//function finalPage(){
-//	$('#gameContent').empty();
-//	$('#gameContent').append('<div id="finalMessage">You conquered all our challenge words...Go home to you loved ones now!</div>');
-//}//finalpage
-////////////////////////////////////////////////////
-//FUNCTION finalPage() ENDS/////////////////////////
-////////////////////////////////////////////////////
 
 ////////////////////////////////////////////////////
 //FUNCTION newGame() BEGINS/////////////////////////
